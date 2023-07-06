@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
+<div>
    <a href="https://github.com/LudmilaLicazali">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LudmilaLicazali&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaLicazali&layout=compact&langs_count=6&theme=ocean_dark"/>
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Me siga nas redes sociais!:
+  ### Me siga nas redes sociais!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -23,6 +23,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/BreadcrumbsLudmilaLicazali/BreadcrumbsLudmilaLicazali/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/LudmilaLicazali/LudmilaLicazali/blob/output/github-contribution-grid-snake.svg)
 
 </div>
